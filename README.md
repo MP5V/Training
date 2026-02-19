@@ -6,11 +6,11 @@
 
 - **Switch expression + pattern matching**  
   Relational, logical patterns, type patterns и т.д.  
-  → [2026-02-SwitchPatterns](2026-02-SwitchPatterns/)
+  → [2026-02-SwitchPatterns]
 
 - **Ref / out / in / params**  
   Передача параметров по ссылке, out для нескольких результатов, params для переменного числа аргументов.  
-  → [2026-02-Ref-Out-In-Params](2026-02-Ref-Out-In-Params/)
+  → [2026-02-Ref-Out-In-Params]
 
 ## Как запустить задачи
 
